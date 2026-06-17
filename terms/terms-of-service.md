@@ -1,8 +1,8 @@
 # Terms of Service
 
 **Application:** InVoice
-**Effective Date:** June 17, 2025
-**Last Updated:** June 17, 2025
+**Effective Date:** June 17, 2026
+**Last Updated:** June 17, 2026
 
 ---
 
