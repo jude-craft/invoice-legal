@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Application:** InVoice
-**Effective Date:** June 17, 2026
-**Last Updated:** June 17, 2026
+**Application:** InVoice  
+**Effective Date:** June 17, 2026  
+**Last Updated:** June 17, 2026  
 
 ---
 
@@ -14,7 +14,7 @@ We are committed to protecting your personal information and your right to priva
 
 Please read this policy carefully. If you disagree with its terms, please discontinue use of the App immediately.
 
-For questions or concerns, contact us at: **hello.invoice@gmail.com**
+For questions or concerns, contact us at: **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)**
 
 ---
 
@@ -69,7 +69,7 @@ We use the information we collect for the following purposes:
 - To send push notifications via Firebase Cloud Messaging (FCM), including automated overdue invoice reminders (InVoice Pro feature) and important App updates.
 
 ### 3.4 Customer Support
-- To respond to your inquiries and resolve technical issues via email at hello.invoice@gmail.com.
+- To respond to your inquiries and resolve technical issues via email at [hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com).
 
 ### 3.5 Service Improvement
 - To analyse aggregated usage trends to improve App performance, features, and user experience.
@@ -143,7 +143,7 @@ You have the right to request deletion of your account and all associated data a
 
 **To request deletion:**
 
-1. Email us at **hello.invoice@gmail.com** with the subject line: **"Data Deletion Request"**.
+1. Email us at **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)** with the subject line: **"Data Deletion Request"**.
 2. Include the email address associated with your InVoice account.
 3. We will process your request within **30 days** and confirm deletion via email.
 
@@ -186,7 +186,7 @@ Depending on your jurisdiction, you may have the following rights:
 
 **For Kenya Data Protection Act Rights (Kenyan Residents):** You have the right to access, correct, and object to the processing of your personal data as provided under the Kenya Data Protection Act, 2019. You may also lodge a complaint with the Office of the Data Protection Commissioner (ODPC).
 
-To exercise any of these rights, contact us at: **hello.invoice@gmail.com**
+To exercise any of these rights, contact us at: **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)**
 
 ---
 
@@ -205,7 +205,7 @@ However, no method of transmission over the Internet or method of electronic sto
 
 ## 11. Children's Privacy
 
-InVoice is not directed at children under the age of **18**. We do not knowingly collect personal information from children. If you become aware that a child has provided us with personal information, please contact us at hello.invoice@gmail.com so we can take steps to delete such information.
+InVoice is not directed at children under the age of **18**. We do not knowingly collect personal information from children. If you become aware that a child has provided us with personal information, please contact us at [hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com) so we can take steps to delete such information.
 
 ---
 
@@ -225,8 +225,7 @@ Your continued use of the App after the effective date of any changes constitute
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**InVoice Support**
-Email: **hello.invoice@gmail.com**
+**InVoice Support** Email: **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)**
 
 ---
 

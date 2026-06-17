@@ -14,7 +14,7 @@ These Terms of Service ("Terms") constitute a legally binding agreement between 
 
 We reserve the right to update these Terms at any time. Continued use of the App after any such changes constitutes your acceptance of the new Terms.
 
-For questions regarding these Terms, contact us at: **hello.invoice@gmail.com**
+For questions regarding these Terms, contact us at: **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)**
 
 ---
 
@@ -44,7 +44,7 @@ You are solely responsible for:
 
 - Maintaining the security and confidentiality of your Google account credentials.
 - All activities that occur under your InVoice account, whether authorised by you or not.
-- Promptly notifying us at **hello.invoice@gmail.com** if you suspect any unauthorised access to or use of your account.
+- Promptly notifying us at **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)** if you suspect any unauthorised access to or use of your account.
 
 We are not liable for any loss or damage arising from your failure to comply with these security obligations. We reserve the right to suspend or terminate accounts that we reasonably suspect have been compromised.
 
@@ -88,7 +88,7 @@ By subscribing, you **expressly authorise us and our payment processors to charg
 
 ### 3.5 Cancellation Policy
 
-You may cancel your InVoice Pro subscription at any time through the account settings within the App or by contacting us at **hello.invoice@gmail.com**.
+You may cancel your InVoice Pro subscription at any time through the account settings within the App or by contacting us at **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)**.
 
 - Cancellation takes effect at the **end of your current billing cycle**.
 - You will retain access to InVoice Pro features until the end of the paid billing period.
@@ -102,7 +102,7 @@ You may cancel your InVoice Pro subscription at any time through the account set
 - Fees charged prior to cancellation.
 - Fees for billing cycles where you did not actively use the InVoice Pro features.
 
-We do not provide prorated refunds for partial billing periods under any circumstances. If you believe a charge was made in error, please contact us at **hello.invoice@gmail.com** within 14 days of the disputed charge and we will investigate in good faith.
+We do not provide prorated refunds for partial billing periods under any circumstances. If you believe a charge was made in error, please contact us at **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)** within 14 days of the disputed charge and we will investigate in good faith.
 
 ### 3.7 Price Changes
 
@@ -252,7 +252,7 @@ We are not responsible for the performance, availability, or practices of any th
 
 ### 9.1 Termination by You
 
-You may terminate your account at any time by contacting us at **hello.invoice@gmail.com**. Termination does not entitle you to any refund of subscription fees already paid.
+You may terminate your account at any time by contacting us at **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)**. Termination does not entitle you to any refund of subscription fees already paid.
 
 ### 9.2 Termination by Us
 
@@ -283,7 +283,7 @@ As InVoice operates as an international service, we are also committed to compli
 
 ### 10.2 Dispute Resolution
 
-In the event of any dispute, claim, or controversy arising out of or relating to these Terms or the App, the parties agree to first attempt to resolve the matter amicably through good-faith negotiation by contacting us at **hello.invoice@gmail.com**.
+In the event of any dispute, claim, or controversy arising out of or relating to these Terms or the App, the parties agree to first attempt to resolve the matter amicably through good-faith negotiation by contacting us at **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)**.
 
 If the dispute is not resolved within **30 days** of written notice, either party may refer the dispute to the courts of competent jurisdiction in **Nairobi, Kenya**, and you consent to the personal jurisdiction of such courts.
 
@@ -340,7 +340,7 @@ Nothing in these Terms shall create or be deemed to create a partnership, joint 
 For any questions, notices, or concerns regarding these Terms, please contact us at:
 
 **InVoice Support**
-Email: **hello.invoice@gmail.com**
+Email: **[hello.invoiceapp@gmail.com](mailto:hello.invoiceapp@gmail.com)**
 
 ---
 
